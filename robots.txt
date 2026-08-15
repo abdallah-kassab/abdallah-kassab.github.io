@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abdallah-kassab.github.io/sitemap.xml
